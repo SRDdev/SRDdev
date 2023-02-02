@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="Left">Hey! I am Shreyas Dixit</h1>
+<p align="left"><b>Deep Learning | Student Researcher</b></p>
 
-<!--
-**SRDdev/SRDdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srddev&label=Profile%20views&color=0e75b6&style=flat" alt="srddev" /> </p>
+<a href="https://twitter.com/shreyas__dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas__dixit" height="30" width="20" /></a>
+<a href="https://linkedin.com/in/i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i" height="30" width="20" /></a>
 
-Here are some ideas to get you started:
+<!-------------------------------------------------- About Me -------------------------------------------------->
+## 🧑🏻About Me
+- 🔭 I am into ML DL
+-  📚 I’m currently learning **Deep Learning & HuggingFace Transformers**
+- 🤗 Recently started publishing ML Models on [Huggingface](https://huggingface.co/SRDdev)
+- 👨‍💻 All of my projects are available at [shreyasdixit.tech](shreyasdixit.tech)
+- 🧋 Motto **Lead Learn Inspire**
+<!-------------------------------------------------- Projects -------------------------------------------------->
+## <img src="https://em-content.zobj.net/thumbs/120/apple/325/gear_2699-fe0f.png" style="height:20px;width:20px;"> Projects
+*Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[MaskedLM](https://github.com/SRDdev/MaskedLMs)** : A Pytorch Implementation of BART Architecure for Masked Language Modeling on English & Hinglish Data.The Models are available to use on Huggingface. [[HF Model card]](https://huggingface.co/SRDdev/HingMaskedLM) 
+- **[Neural Translation](https://github.com/SRDdev/Neurohack)** : A transformer based Neural Machine Translation model in TensorFlow for English to Hinglish Translation.Built from scratch & achived 94% accuracy with 24hr for Neuro Hackathon.
+- **[Credit-Card-Fraud-Detection](https://github.com/SRDdev/Credit-Card-Fraud-Detection)** : Case Study of Detection of Credit card fraud using Machine learning algorithms such as Logistic Regression, Support Vector Machines.
+- **[Extractive Text Summarization](https://github.com/SRDdev/Text_Summarizer)** : The Project is aimed at generating a brief _Extractive_ summary of the given text. User can upload Image ,PDF ,Text. [[HF Space]](https://huggingface.co/spaces/SRDdev/Summarize)
+
+## <img src="https://em-content.zobj.net/thumbs/120/apple/325/magic-wand_1fa84.png" style="height:30px;">Currently working on 
+- Open Source 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srddev&show_icons=true&locale=en" alt="srddev" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srddev&" alt="srddev" /></p>
+
+
+<!--------------------------------------------------NewsLetter-------------------------------------------------->
+## <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" style="height:25px;width:25px;"> Notion & NewsLetter
+- I write about productivity in this weekly newsletter "Producitivity Pro". 
+<a href="Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7015550296219119616">
+  <img src="https://dabuttonfactory.com/button.png?t=Join+200%2B+readers&f=Open+Sans-Bold&ts=26&tc=fff&hp=30&vp=10&c=11&bgt=pyramid&bgc=c00&ebgc=900&be=1" style="height:20px;">
+</a>
+
+- I use **Notion** daily as my personal second brain. I also create Notion Temapltes for you to stay organized and Productive.
+<a href="https://productivepro.typedream.app/">
+  <img src="https://dabuttonfactory.com/button.png?t=Notion+Templates&f=Open+Sans-Bold&ts=26&tc=000&hp=30&vp=10&c=11&bgt=unicolored&bgc=eee" style="height:20px;">
+</a>
