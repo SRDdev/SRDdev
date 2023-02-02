@@ -23,8 +23,9 @@
 
 ## <img src="https://em-content.zobj.net/thumbs/120/apple/325/magic-wand_1fa84.png" style="height:30px;">Currently working on 
 - Open Source 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srddev&show_icons=true&locale=en" alt="srddev" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srddev&" alt="srddev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srddev&show_icons=true&locale=en" alt="srddev" style="width:400px;hright:200px;"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srddev&" alt="srddev"style="width:400px;height:200px;"/></p>
+
 
 
 <!--------------------------------------------------NewsLetter-------------------------------------------------->
