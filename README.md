@@ -31,7 +31,7 @@
 <!--------------------------------------------------NewsLetter-------------------------------------------------->
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" style="height:25px;width:25px;"> Notion & NewsLetter
 - I write about productivity in this weekly newsletter "Producitivity Pro". 
-<a href="Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7015550296219119616">
+<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7015550296219119616">
   <img src="https://dabuttonfactory.com/button.png?t=Join+200%2B+readers&f=Open+Sans-Bold&ts=26&tc=fff&hp=30&vp=10&c=11&bgt=pyramid&bgc=c00&ebgc=900&be=1" style="height:20px;">
 </a>
 
