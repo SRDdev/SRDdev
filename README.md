@@ -19,6 +19,7 @@
 - **[MaskedLM](https://github.com/SRDdev/MaskedLMs)** : A Pytorch Implementation of BART Architecure for Masked Language Modeling on English & Hinglish Data.The Models are available to use on Huggingface. [[HF Model card]](https://huggingface.co/SRDdev/HingMaskedLM) 
 - **[Neural Translation](https://github.com/SRDdev/Neurohack)** : A transformer based Neural Machine Translation model in TensorFlow for English to Hinglish Translation.Built from scratch & achived 94% accuracy with 24hr for Neuro Hackathon.
 - **[Credit-Card-Fraud-Detection](https://github.com/SRDdev/Credit-Card-Fraud-Detection)** : Case Study of Detection of Credit card fraud using Machine learning algorithms such as Logistic Regression, Support Vector Machines.
+- **[Image Captioning](https://huggingface.co/spaces/SRDdev/Image-Caption)** : Multimodality model for Image-Text Generation. Given any image the model outputs a text prompt describing the image. 
 - **[Extractive Text Summarization](https://github.com/SRDdev/Text_Summarizer)** : The Project is aimed at generating a brief _Extractive_ summary of the given text. User can upload Image ,PDF ,Text. [[HF Space]](https://huggingface.co/spaces/SRDdev/Summarize)
 
 ## <img src="https://em-content.zobj.net/thumbs/120/apple/325/magic-wand_1fa84.png" style="height:30px;">Currently working on 
@@ -27,12 +28,11 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srddev&" alt="srddev"style="width:400px;height:200px;"/></p>
 
 
-
 <!--------------------------------------------------NewsLetter-------------------------------------------------->
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" style="height:25px;width:25px;"> Notion & NewsLetter
-- I write about productivity in this weekly newsletter "Producitivity Pro". 
+- I write about productivity in this weekly newsletter "Producitivity Pro".
 <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7015550296219119616">
-  <img src="https://dabuttonfactory.com/button.png?t=Join+200%2B+readers&f=Open+Sans-Bold&ts=26&tc=fff&hp=30&vp=10&c=11&bgt=pyramid&bgc=c00&ebgc=900&be=1" style="height:20px;">
+  <img src="https://dabuttonfactory.com/button.png?t=Join+230%2B+readers&f=Open+Sans-Bold&ts=26&tc=fff&hp=30&vp=10&c=11&bgt=pyramid&bgc=c00&ebgc=900&be=1" style="height:20px;">
 </a>
 
 - I use **Notion** daily as my personal second brain. I also create Notion Temapltes for you to stay organized and Productive.
