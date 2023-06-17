@@ -8,7 +8,7 @@
 <!-------------------------------------------------- About Me -------------------------------------------------->
 ## 🧑🏻About Me
 - 🔭 I am into ML DL
--  📚 I’m currently learning **Deep Learning & HuggingFace Transformers**
+-  📚 I’m currently learning **Deep Learning & LangChain**
 - 🤗 Recently started publishing ML Models on [Huggingface](https://huggingface.co/SRDdev)
 - 👨‍💻 All of my projects are available at [shreyasdixit.tech](shreyasdixit.tech)
 - 🧋 Motto **Lead Learn Inspire**
@@ -21,36 +21,37 @@
 ## <img src="https://em-content.zobj.net/thumbs/120/apple/325/gear_2699-fe0f.png" style="height:20px;width:20px;"> Projects
 *Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
 
+- **[EchoSense](https://github.com/SRDdev/)** : VisualAudioAI is a multimodality model that aims to generates Audio descriptions by looking at any given Image.[[HF Space]](https://huggingface.co/spaces/SRDdev/EchoSense)
+- **[HingFlow](https://github.com/SRDdev/HingFlow)** : Translation model to translate English sentence to Hindi. Used Neural Machine Translation using Transformers approach to solve this problem.[[HF Space]](https://huggingface.co/spaces/SRDdev/HingFlow)
 - **[MaskedLM](https://github.com/SRDdev/MaskedLMs)** : A Pytorch Implementation of BART Architecure for Masked Language Modeling on English & Hinglish Data.The Models are available to use on Huggingface. [[HF Model card]](https://huggingface.co/SRDdev/HingMaskedLM) 
 - **[Neural Translation](https://github.com/SRDdev/Neurohack)** : A transformer based Neural Machine Translation model in TensorFlow for English to Hinglish Translation.Built from scratch & achived 94% accuracy with 24hr for Neuro Hackathon.
-- **[Credit-Card-Fraud-Detection](https://github.com/SRDdev/Credit-Card-Fraud-Detection)** : Case Study of Detection of Credit card fraud using Machine learning algorithms such as Logistic Regression, Support Vector Machines.
 - **[Image Captioning](https://huggingface.co/spaces/SRDdev/Image-Caption)** : Multimodality model for Image-Text Generation. Given any image the model outputs a text prompt describing the image. 
-- **[Extractive Text Summarization](https://github.com/SRDdev/Text_Summarizer)** : The Project is aimed at generating a brief _Extractive_ summary of the given text. User can upload Image ,PDF ,Text. [[HF Space]](https://huggingface.co/spaces/SRDdev/Summarize)
+
 
 ## <img src="https://em-content.zobj.net/thumbs/120/apple/325/magic-wand_1fa84.png" style="height:30px;">Currently working on 
 - Open Source contributions
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srddev&show_icons=true&locale=en" alt="srddev" style="width:400px;hright:200px;"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srddev&" alt="srddev"style="width:400px;height:200px;"/></p>
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srddev&show_icons=true&locale=en" alt="srddev" style="width:400px;hright:200px;"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srddev&" alt="srddev"style="width:400px;height:200px;"/></p> -->
 
 
 <!--------------------------------------------------NewsLetter-------------------------------------------------->
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" style="height:25px;width:25px;"> Notion & NewsLetter
 - I write about productivity in this weekly newsletter "Producitivity Pro".
 <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7015550296219119616">
-  <img src="https://dabuttonfactory.com/button.png?t=Join+288%2B+readers&f=Open+Sans-Bold&ts=26&tc=fff&hp=30&vp=10&c=11&bgt=pyramid&bgc=c00&ebgc=900&be=1" style="height:20px;">
+  <img src="https://dabuttonfactory.com/button.png?t=Join+400%2B+readers&f=Open+Sans-Bold&ts=26&tc=fff&hp=30&vp=10&c=11&bgt=pyramid&bgc=c00&ebgc=900&be=1" style="height:20px;">
 </a>
 
 - I use **Notion** daily as my personal second brain. I also create Notion Temapltes for you to stay organized and Productive.
-<a href="https://productivepro.typedream.app/">
-  <img src="https://dabuttonfactory.com/button.png?t=Notion+Templates&f=Open+Sans-Bold&ts=26&tc=000&hp=30&vp=10&c=11&bgt=unicolored&bgc=eee" style="height:20px;">
-</a>
 
 - I have multiple Notion Templates oon Notion's Official Gallery 
 <a href="https://www.notion.so/templates/life-organizer">
   <img src="https://dabuttonfactory.com/button.png?t=Notion+Life+Organizer&f=Open+Sans-Bold&ts=26&tc=000&hp=30&vp=10&c=11&bgt=unicolored&bgc=eee" style="height:20px;">
 </a>
-<a href="https://www.notion.so/templates/job-search">
-  <img src="https://dabuttonfactory.com/button.png?t=Notion+Job+Search&f=Open+Sans-Bold&ts=26&tc=000&hp=30&vp=10&c=11&bgt=unicolored&bgc=eee" style="height:20px;">
+<a href="https://www.notion.so/templates/research-hub">
+  <img src="https://dabuttonfactory.com/button.png?t=Notion+Research+Hub&f=Open+Sans-Bold&ts=26&tc=000&hp=30&vp=10&c=11&bgt=unicolored&bgc=eee" style="height:20px;">
 </a>
-
+<a href="https://productivitypro.typedream.app/">
+  <img src="https://dabuttonfactory.com/button.png?t=Store&f=Open+Sans-Bold&ts=26&tc=000&hp=30&vp=10&c=11&bgt=unicolored&bgc=eee" style="height:20px;">
+</a>
