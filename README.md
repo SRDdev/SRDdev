@@ -21,11 +21,11 @@
 ## <img src="https://em-content.zobj.net/thumbs/120/apple/325/gear_2699-fe0f.png" style="height:20px;width:20px;"> Projects
 *Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
 
-- **[EchoSense](https://github.com/SRDdev/)** : VisualAudioAI is a multimodality model that aims to generates Audio descriptions by looking at any given Image.[[HF Space]](https://huggingface.co/spaces/SRDdev/EchoSense)
+- **[EchoSense](https://github.com/SRDdev/)** : VisualAudioAI is a multimodality model that aims to generates Audio descriptions by looking at any given Image.[[HF Space]](https://srddev-echosense.hf.space)
 - **[HingFlow](https://github.com/SRDdev/HingFlow)** : Translation model to translate English sentence to Hindi. Used Neural Machine Translation using Transformers approach to solve this problem.[[HF Space]](https://huggingface.co/spaces/SRDdev/HingFlow)
-- **[MaskedLM](https://github.com/SRDdev/MaskedLMs)** : A Pytorch Implementation of BART Architecure for Masked Language Modeling on English & Hinglish Data.The Models are available to use on Huggingface. [[HF Model card]](https://huggingface.co/SRDdev/HingMaskedLM) 
+- **[MaskedLM](https://github.com/SRDdev/MaskedLMs)** : A Pytorch Implementation of BART Architecure for Masked Language Modeling on English & Hinglish Data.The Models are available to use on Huggingface. [[HF Model card]](https://srddev-hingmaskedlm.hf.space) 
 - **[Neural Translation](https://github.com/SRDdev/Neurohack)** : A transformer based Neural Machine Translation model in TensorFlow for English to Hinglish Translation.Built from scratch & achived 94% accuracy with 24hr for Neuro Hackathon.
-- **[Image Captioning](https://huggingface.co/spaces/SRDdev/Image-Caption)** : Multimodality model for Image-Text Generation. Given any image the model outputs a text prompt describing the image. 
+- **[Image Captioning](https://srddev-image-caption.hf.space)** : Multimodality model for Image-Text Generation. Given any image the model outputs a text prompt describing the image.
 
 
 ## <img src="https://em-content.zobj.net/thumbs/120/apple/325/magic-wand_1fa84.png" style="height:30px;">Currently working on 
