@@ -7,9 +7,9 @@
 
 <!-------------------------------------------------- About Me -------------------------------------------------->
 ## 🧑🏻About Me
-- 🔭 I am into ML DL
--  📚 I’m currently learning **Deep Learning & LangChain**
-- 🤗 Recently started publishing ML Models on [Huggingface](https://huggingface.co/SRDdev)
+- 🔭 I am into Deep Learning Algorithms and Techniques
+-  📚 I’m currently learning **Compute Optimizations for Deep Learning**
+- 🤗 Publishing ML Models on [Huggingface](https://huggingface.co/SRDdev)
 - 👨‍💻 All of my projects are available at [shreyasdixit.tech](shreyasdixit.tech)
 - 🧋 Motto **Lead Learn Inspire**
 
