@@ -8,7 +8,7 @@
 <!-------------------------------------------------- About Me -------------------------------------------------->
 ## 🧑🏻About Me
 - 🔭 I am into Deep Learning Algorithms and Techniques
--  📚 I’m currently learning **Compute Optimizations for Deep Learning**
+-  📚 I’m currently learning **torch**
 - 🤗 Publishing ML Models on [Huggingface](https://huggingface.co/SRDdev)
 - 👨‍💻 All of my projects are available at [shreyasdixit.tech](shreyasdixit.tech)
 - 🧋 Motto **Lead Learn Inspire**
