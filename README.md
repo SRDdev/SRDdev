@@ -10,7 +10,7 @@
 - 🔭 I am into Deep Learning Algorithms and Techniques
 -  📚 I’m currently learning **torch**
 - 🤗 Publishing ML Models on [Huggingface](https://huggingface.co/SRDdev)
-- 👨‍💻 All of my projects are available at [shreyasdixit.tech](shreyasdixit.tech)
+- 👨‍💻 All of my projects are available at [shreyasdixit.me](shreyasdixit.me)
 - 🧋 Motto **Lead Learn Inspire**
 
 <!-------------------------------------------------- News -------------------------------------------------->
