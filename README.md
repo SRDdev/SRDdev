@@ -1,5 +1,5 @@
 <h1 align="Left">Hey! I am Shreyas Dixit</h1>
-<p align="left"><b>President @MLSC VIIT Pune | Student Researcher | Patent Holder | Deep Learning</b></p>
+<p align="left"><b>President @MLSC VIIT Pune | Student Researcher | Dual Patent Holder | Deep Learning</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srddev&label=Profile%20views&color=0e75b6&style=flat" alt="srddev" /> </p>
 <a href="https://twitter.com/shreyas__dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas__dixit" height="30" width="20" /></a>
@@ -15,6 +15,7 @@
 
 <!-------------------------------------------------- News -------------------------------------------------->
 ## <img src="https://em-content.zobj.net/thumbs/120/apple/325/newspaper_1f4f0.png" style="height:20px;width:20px;"> Latest Updates
+- **2nd Patent Published** :Second Patent in 2023 "Real-Time MultiModal Video Narration Platform for Visually Impaired People"
 - **Indian Patent Published** : Recently published an Indian Patent titled "Assistance Platform for Visually Impaired Person using Image Captioning"
 
 <!-------------------------------------------------- Projects -------------------------------------------------->
@@ -40,10 +41,10 @@
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" style="height:25px;width:25px;"> Notion & NewsLetter
 - I write about productivity in this weekly newsletter "Productivity Pro".
 <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7015550296219119616">
-  <img src="https://dabuttonfactory.com/button.png?t=Join+500%2B+readers&f=Open+Sans-Bold&ts=26&tc=fff&hp=30&vp=10&c=11&bgt=pyramid&bgc=c00&ebgc=900&be=1" style="height:20px;">
+  <img src="https://dabuttonfactory.com/button.png?t=Join+600%2B+readers&f=Open+Sans-Bold&ts=26&tc=fff&hp=30&vp=10&c=11&bgt=pyramid&bgc=c00&ebgc=900&be=1" style="height:20px;">
 </a>
 
-- I use **Notion** daily as my personal second brain. I also create Notion templates for you to stay organized and Productive.
+- I use **Notion** daily as my second brain. I also create Notion templates for you to stay organized and Productive.
 
 - I have multiple Notion Templates on Notion's Official Gallery 
 <a href="https://www.notion.so/templates/life-organizer">
