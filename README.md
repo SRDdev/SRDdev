@@ -1,5 +1,5 @@
 <h1 align="Left">Hey! I am Shreyas Dixit</h1>
-<p align="left"><b>President @MLSC VIIT Pune | Student Researcher | Dual Patent Holder | Deep Learning</b></p>
+<p align="left"><b>Building @Linear-AI | President @MLSC VIIT Pune | Student Researcher | Dual Patent Holder | Deep Learning</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srddev&label=Profile%20views&color=0e75b6&style=flat" alt="srddev" /> </p>
 <a href="https://twitter.com/shreyas__dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas__dixit" height="30" width="20" /></a>
