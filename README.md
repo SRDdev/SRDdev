@@ -1,58 +1,94 @@
-<h1 align="Left">Hey👋 I am Shreyas Dixit</h1>
-<p align="left"><b>Computer Vision @Techolution | UG Researcher | Deep Learning | President @MLSC VIIT Pune | 2X Patent Holder</b></p>
+# Shreyas Dixit  
+### AI Researcher, Computer Vision & Machine Learning Engineer
+Actively Seeking Full-Time Opportunities
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srddev&label=Profile%20views&color=0e75b6&style=flat" alt="srddev" /> </p>
-<a href="https://twitter.com/shreyas__dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas__dixit" height="30" width="20" /></a>
-<a href="https://linkedin.com/in/i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i" height="30" width="20" /></a>
+[![Profile Views](https://komarev.com/ghpvc/?username=srddev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SRDdev)  
+[![Twitter](https://img.shields.io/badge/Twitter-@shreyas__dixit-1DA1F2?style=flat&logo=twitter)](https://twitter.com/shreyas__dixit)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@shreyasdixit-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreyasdixit)
 
-<!-------------------------------------------------- About Me -------------------------------------------------->
-## 🧑🏻About Me
-- 🔭 I am into Deep Learning Architectures and Techniques
-- 🤗 Publishing ML Models on [Huggingface](https://huggingface.co/SRDdev)
-- 👨‍💻 All of my projects are available at [shreyasdixit.me](shreyasdixit.me)
-- Motto **Lead Learn Inspire**
+---
 
-<!-------------------------------------------------- News -------------------------------------------------->
-## <img src="https://em-content.zobj.net/thumbs/120/apple/325/newspaper_1f4f0.png" style="height:20px;width:20px;"> Latest Updates
-- **Joined Techolution as an Computer Vision Engineering Intern**
-- **2nd Patent Published** :Second Patent in 2023 "Real-Time MultiModal Video Narration Platform for Visually Impaired People"
-- **Indian Patent Published** : Recently published an Indian Patent titled "Assistance Platform for Visually Impaired Person using Image Captioning"
+## About Me
 
-<!-------------------------------------------------- Projects -------------------------------------------------->
-## <img src="https://em-content.zobj.net/thumbs/120/apple/325/gear_2699-fe0f.png" style="height:20px;width:20px;"> Projects
-*Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
+I am a passionate researcher and engineer specializing in **Deep Learning**, with a focus on **Computer Vision**. Currently, I work as a **Computer Vision Engineer** at Techolution and lead the **Machine Learning Society (MLSC)** at VIIT Pune as its **President**. My journey in research has been marked by impactful work on multimodal AI systems, and I hold two patents related to **assistive technologies** for the visually impaired.
 
-- **[EchoSense](https://github.com/SRDdev/)** : VisualAudioAI is a multimodality model that aims to generates Audio descriptions by looking at any given Image.[[HF Space]](https://srddev-echosense.hf.space)
-- **[HingFlow](https://github.com/SRDdev/HingFlow)** : Translation model to translate English sentence to Hindi. Used Neural Machine Translation using Transformers approach to solve this problem.[[HF Space]](https://huggingface.co/spaces/SRDdev/HingFlow)
-- **[MaskedLM](https://github.com/SRDdev/MaskedLMs)** : A Pytorch Implementation of BART Architecure for Masked Language Modeling on English & Hinglish Data.The Models are available to use on Huggingface. [[HF Model card]](https://srddev-hingmaskedlm.hf.space) 
-- **[Neural Translation](https://github.com/SRDdev/Neurohack)** : A transformer based Neural Machine Translation model in TensorFlow for English to Hinglish Translation.Built from scratch & achived 94% accuracy with 24hr for Neuro Hackathon.
-- **[Image Captioning](https://srddev-image-caption.hf.space)** : Multimodality model for Image-Text Generation. Given any image the model outputs a text prompt describing the image.
+- 🔭 Focused on developing advanced **Deep Learning architectures** and exploring cutting-edge **Computer Vision** techniques.
+- 🤗 Actively publishing and sharing **machine learning models** on [Huggingface](https://huggingface.co/SRDdev).
+- 🌍 You can explore my research and projects at [shreyasdixit.me](http://shreyasdixit.me).
+- Motto: **Lead, Learn, Inspire**
 
+---
 
-## <img src="https://em-content.zobj.net/thumbs/120/apple/325/magic-wand_1fa84.png" style="height:30px;">Currently working on 
-- Open Source contributions
+## Actively Seeking Full-Time Opportunities
 
+I am currently looking for full-time roles in **AI Research**, **Machine Learning Engineering**, or **Computer Vision Engineering** at organizations that value cutting-edge research and innovation. I’m passionate about working on impactful projects that push the boundaries of AI and technology, particularly in areas like **multimodal AI**, **AI for accessibility**, and **AI in robotics**. If you have opportunities that align with my expertise, I would love to connect and explore how we can work together.
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srddev&show_icons=true&locale=en" alt="srddev" style="width:400px;hright:200px;"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srddev&" alt="srddev"style="width:400px;height:200px;"/></p> -->
+---
 
+## Latest Updates
 
-<!--------------------------------------------------NewsLetter-------------------------------------------------->
-## <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" style="height:25px;width:25px;"> Notion & NewsLetter
-- I write about productivity in this weekly newsletter "Productivity Pro".
-<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7015550296219119616">
-  <img src="https://dabuttonfactory.com/button.png?t=Join+900%2B+readers&f=Open+Sans-Bold&ts=26&tc=fff&hp=30&vp=10&c=11&bgt=pyramid&bgc=c00&ebgc=900&be=1" style="height:20px;">
-</a>
+- **[WaveFormer](https://srddev.github.io/Wave-Former/main)** : Published in Qurtile 1 Journal for Long Time Ocean Wave Forecasting (2024).
+- **Joined Techolution** as a **Computer Vision Engineering Intern**.
+- **Patent #2 Published**: "Real-Time MultiModal Video Narration Platform for Visually Impaired People" (2023).
+- **Indian Patent Published**: "Assistance Platform for Visually Impaired Person Using Image Captioning".
 
-- I use **Notion** daily as my second brain. I also create Notion templates for you to stay organized and Productive.
+---
 
-- I have multiple Notion Templates on Notion's Official Gallery 
-<a href="https://www.notion.so/templates/life-organizer">
-  <img src="https://dabuttonfactory.com/button.png?t=Notion+Life+Organizer&f=Open+Sans-Bold&ts=26&tc=000&hp=30&vp=10&c=11&bgt=unicolored&bgc=eee" style="height:20px;">
-</a>
-<a href="https://www.notion.so/templates/research-hub">
-  <img src="https://dabuttonfactory.com/button.png?t=Notion+Research+Hub&f=Open+Sans-Bold&ts=26&tc=000&hp=30&vp=10&c=11&bgt=unicolored&bgc=eee" style="height:20px;">
-</a>
-<a href="https://productivitypro.typedream.app/">
-  <img src="https://dabuttonfactory.com/button.png?t=Store&f=Open+Sans-Bold&ts=26&tc=000&hp=30&vp=10&c=11&bgt=unicolored&bgc=eee" style="height:20px;">
-</a>
+## Projects
+
+Here are some of my latest projects in **Deep Learning** and **Computer Vision**. Click on the project names for their GitHub repositories and live demos.
+
+- **[EchoSense](https://github.com/SRDdev/)**  
+  A multimodal model that generates audio descriptions from images. This model combines **computer vision** and **audio generation** to assist the visually impaired.  
+  [Live Demo on Huggingface](https://srddev-echosense.hf.space).
+
+- **[HingFlow](https://github.com/SRDdev/HingFlow)**  
+  A neural machine translation model that translates English sentences into Hindi using transformer-based architectures.  
+  [Live Demo on Huggingface](https://huggingface.co/spaces/SRDdev/HingFlow).
+
+- **[MaskedLM](https://github.com/SRDdev/MaskedLMs)**  
+  A PyTorch implementation of **BART** architecture for **Masked Language Modeling** on English and Hinglish datasets.  
+  [Model on Huggingface](https://srddev-hingmaskedlm.hf.space).
+
+- **[Neural Translation](https://github.com/SRDdev/Neurohack)**  
+  A transformer-based **Neural Machine Translation** model built from scratch for English to Hinglish translation. Achieved 94% accuracy in 24 hours during the **Neuro Hackathon**.
+
+- **[Image Captioning](https://srddev-image-caption.hf.space)**  
+  A multimodal model for generating text descriptions from images. This system combines **vision** and **natural language processing** to create accurate image captions.
+
+---
+
+## Current Focus
+
+- **AI-Generated Content Safety**: Researching methods to detect, mitigate, and prevent harmful, biased, or unsafe outputs in AI systems.  
+- **AI in Robotics**: Investigating the intersection of **AI**, **computer vision**, and **robotics** to create smarter, autonomous systems.
+- **Multimodal AI**: Advancing the integration of vision, language, and audio for more intelligent and human-like systems.
+- **AI for Accessibility**: Designing and building AI-driven tools to improve accessibility for the visually impaired, enhancing inclusivity and quality of life.
+
+---
+
+## Notion & Newsletter
+
+### **Productivity Pro Newsletter**
+
+I write about **productivity**, **time management**, and **life organization** in my weekly newsletter, *Productivity Pro*. Join over 900 readers to stay productive and informed.  
+[Subscribe Now](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7015550296219119616).
+
+---
+
+### **Notion Templates for Productivity**
+
+I use **Notion** as my "second brain" to organize research, personal projects, and day-to-day tasks. I also create and share Notion templates to help others stay organized.
+
+- [**Life Organizer** Notion Template](https://www.notion.so/templates/life-organizer)
+- [**Research Hub** Notion Template](https://www.notion.so/templates/research-hub)
+
+---
+
+## Let's Connect
+
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/shreyasdixit) or [Twitter](https://twitter.com/shreyas__dixit) to collaborate, discuss research ideas, or just chat about AI and technology.
+
+---
+
+*The best way to predict the future is to invent it.* – Alan Kay
