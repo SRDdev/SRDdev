@@ -4,7 +4,7 @@ Actively Seeking Full-Time Opportunities
 
 [![Profile Views](https://komarev.com/ghpvc/?username=srddev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SRDdev)  
 [![Twitter](https://img.shields.io/badge/Twitter-@shreyas__dixit-1DA1F2?style=flat&logo=twitter)](https://twitter.com/shreyas__dixit)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@shreyasdixit-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreyasdixit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@shreyasdixit-0A66C2?style=flat&logo=linkedin)]([https://www.linkedin.com/in/shreyasdixit](https://www.linkedin.com/in/srddev/))
 
 ---
 
