@@ -22,7 +22,7 @@ I bridge the gap between "State-of-the-Art" and "Scale," building systems that a
 
 ## Research & Mentorship
 
-My research on "Safety-by-Design" architectures is conducted under the guidance of **[Dr. Amitava Das](https://scholar.google.com/citations?user=HYpfhaEAAAAJ)** (BITS Pilani/AIISC). I am fortunate to be mentored by and collaborate with leading scientists including **[Vasu Sharma](https://scholar.google.com/citations?user=9z2bP28AAAAJ)** (Meta AI/FAIR), **[Aman Chadha](https://scholar.google.com/citations?user=0yKk9CkAAAAJ)** (Apple/Stanford AI), and **[Vinija Jain](https://scholar.google.com/citations?user=9z2bP28AAAAJ)** (Meta/Amazon).
+My research on "Safety-by-Design" architectures is conducted under the guidance of **[Dr. Amitava Das](https://scholar.google.com/citations?user=HYpfhaEAAAAJ)** (BITS Pilani/AIISC). I am fortunate to be mentored by and collaborate with leading scientists including **[Vasu Sharma](https://scholar.google.com/citations?user=PLUB4dIAAAAJ&hl=en)** (Meta AI/FAIR), **[Aman Chadha](https://scholar.google.com/citations?user=gPGQuBQAAAAJ&hl=en)** (Apple/Stanford AI), and **[Vinija Jain](https://scholar.google.com/citations?user=oYaD1NcAAAAJ&hl=en)** (Meta/Amazon).
 
 ---
 
