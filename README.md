@@ -1,7 +1,7 @@
 # Shreyas Dixit
 
-### AI Systems Engineer & Researcher
-**Agentic Workflows** | **AI Forensics & Safety** | **High-Precision Perception**
+### Machine Learning Engineer & Researcher
+**LLM Inference Optimization** | **Multimodal Research & Safety**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=srddev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SRDdev)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Shreyas%20Dixit-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=pl_o-VUAAAAJ)
@@ -12,9 +12,11 @@
 
 ## About Me
 
-I am an **AI Systems Engineer and Researcher** specializing in the intersection of **Applied Research** and **Production Infrastructure**. My work focuses on architecting **State-Aware Agentic Workflows**, **Real-Time Perception Pipelines**, and **AI Safety Mechanisms**.
+I am a **Machine Learning Engineer and Researcher** specializing in the intersection of **Applied Research** and **Implementation**. My core focus is on **LLM Inference Optimization**, **Quantization**, and **AI Safety Mechanisms**.
 
-I bridge the gap between "State-of-the-Art" and "Scale," building systems that are not only novel but robust and deployable. Currently, I am a Researcher at the **[AI Institute of South Carolina (AIISC)](https://aiisc.ai/)**, developing forensic integrity layers (Watermarking, Hallucination Mitigation) for Generative AI. Simultaneously, as an **AI Systems Engineer** at **Techolution**, I lead the development of Embodied AI systems that achieve **97% task accuracy** and **2mm precision** in dynamic environments.
+I bridge the gap between "State-of-the-Art" and "Scale," building systems that are not only novel but robust and deployable. Currently, I work full-time as a **Machine Learning Engineer** at **Techolution**, where I lead the development of Embodied AI systems that achieve **97% task accuracy** and **2mm precision** in dynamic environments. 
+
+*In parallel, I collaborate with the **[AI Institute of South Carolina (AIISC)](https://aiisc.ai/)** as a Contributing Researcher, focusing on AI integrity layers (Watermarking, Hallucination Mitigation) for Generative AI.*
 
 ---
 
@@ -29,7 +31,7 @@ My research on "Safety-by-Design" architectures is conducted under the guidance 
 * **[Feb 2025] Workshop Organizer:** Serving as an Associate Organizer for the **Defactify 4.0 Workshop** at **AAAI 2025**.
 * **[Jan 2025] New Pre-print:** Released **[PECCAVI](https://arxiv.org/abs/2506.22960)**, a novel watermarking technique for AI-generated images, co-authored with mentors from Meta and Apple.
 * **[2024] Journal Publication:** **[WaveFormer](https://srddev.github.io/Wave-Former/main)** published in *Ocean Engineering* (**Q1 Journal**). Proposed a Transformer-based architecture for long-term time-series forecasting.
-* **[2024] Production Deployment:** Deployed end-to-end **Agentic Systems** using LangGraph and CrewAI for autonomous industrial tasks.
+* **[2024] Production Deployment:** Deployed end-to-end **Agentic Systems** using LangGraph and CrewAI for autonomous industrial tasks at Techolution.
 
 ---
 
@@ -53,12 +55,12 @@ My research on "Safety-by-Design" architectures is conducted under the guidance 
 
 ## Engineering Moats & Tech Stack
 
-I specialize in building **deterministic, state-aware autonomous loops** and **forensic layers** for AI.
+I specialize in **optimizing inference pipelines** and building **forensic layers** for AI.
 
 | Domain | Technologies |
 | :--- | :--- |
+| **Inference Optimization** | `vLLM`, `TensorRT-LLM`, `Triton Inference Server`, `TorchServe`, `Quantization (AWQ/GPTQ)` |
 | **Agentic AI** | `LangGraph`, `CrewAI`, `Model Context Protocol (MCP)`, `AutoGen` |
-| **Inference** | `vLLM`, `TensorRT-LLM`, `Triton Inference Server`, `TorchServe` |
 | **Computer Vision** | `PyTorch`, `OpenCV`, `YOLO`, `NVIDIA Isaac Sim`, `6D Pose Estimation` |
 | **Infrastructure** | `Docker`, `Kubernetes`, `GCP`, `VectorDBs (Milvus/Pinecone)`, `FastAPI` |
 
@@ -81,7 +83,7 @@ I specialize in building **deterministic, state-aware autonomous loops** and **f
 
 ## Connect
 
-I am actively seeking high-impact roles as a **Senior ML Engineer**, **AI Architect**, or **AI Systems Engineer**. If you are building **multi-agent architectures** or **production-grade LLM pipelines**, I would love to connect.
+I am actively seeking high-impact roles as a **Senior ML Engineer**, **AI Architect**, or **Inference Engineer**. If you are building **production-grade LLM pipelines** or working on **efficient inference**, I would love to connect.
 
 [**🌐 Portfolio**](https://srddev.vercel.app/) | [**🐦 Twitter**](https://twitter.com/shreyas__dixit) | [**💼 LinkedIn**](https://www.linkedin.com/in/srddev/)
 
