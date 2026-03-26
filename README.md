@@ -1,7 +1,7 @@
 # Shreyas Dixit
 
 ### Machine Learning Engineer & Researcher
-**LLM Inference Optimization** | **Multimodal Research & Safety**
+**GPU ML Engineer @Qualcomm** | **Multimodal Research & Safety**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=srddev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SRDdev)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Shreyas%20Dixit-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=pl_o-VUAAAAJ)
@@ -27,7 +27,8 @@ My research on "Safety-by-Design" architectures is conducted under the guidance 
 ---
 
 ## Latest News & Updates
-
+* **[March 2026] Qualcomm** : **GPU ML Engineer**.
+* **[Feb 2026] PECAVI Image CVPR2026 :** **[PECCAVI](https://arxiv.org/abs/2506.22960)** Image has been accepted for CVPR2026 (First Author)**.
 * **[Feb 2025] Workshop Organizer:** Serving as an Associate Organizer for the **Defactify 4.0 Workshop** at **AAAI 2025**.
 * **[Jan 2025] New Pre-print:** Released **[PECCAVI](https://arxiv.org/abs/2506.22960)**, a novel watermarking technique for AI-generated images, co-authored with mentors from Meta and Apple.
 * **[2024] Journal Publication:** **[WaveFormer](https://srddev.github.io/Wave-Former/main)** published in *Ocean Engineering* (**Q1 Journal**). Proposed a Transformer-based architecture for long-term time-series forecasting.
